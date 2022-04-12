@@ -1,2 +1,3 @@
-/Users/orlandocamacho/NetBeansProjects/Caso estudio - Escuela/MensajeriaMaestro/src/main/java/com/itson/ejemploproducerconejo/MainProducer.java
-/Users/orlandocamacho/NetBeansProjects/Caso estudio - Escuela/MensajeriaMaestro/src/main/java/com/itson/ejemploproducerconejo/Message.java
+/Users/orlandocamacho/NetBeansProjects/Caso estudio - Escuela/MensajeriaPadre/src/main/java/com/itson/ejemploconsumerconejo/Message.java
+/Users/orlandocamacho/NetBeansProjects/Caso estudio - Escuela/MensajeriaPadre/src/main/java/com/itson/ejemploconsumerconejo/MainConsumer.java
+/Users/orlandocamacho/NetBeansProjects/Caso estudio - Escuela/MensajeriaPadre/src/main/java/Data/ServicioConexion.java
